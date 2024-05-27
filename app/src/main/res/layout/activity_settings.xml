@@ -35,7 +35,7 @@
       android:layout_centerVertical="true"
       android:layout_marginEnd="16dp"
       android:fontFamily="@font/shabnamlight"
-      android:text="تنظیمات"
+      android:text="Settings"
       android:textColor="@color/black"
       android:textSize="24sp" />
 
@@ -87,7 +87,7 @@
             android:minWidth="100dp"
             android:layout_alignParentEnd="true"
             android:fontFamily="@font/shabnam"
-            android:text="اندپوینت"
+            android:text="Endpoint"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -97,7 +97,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="ترکیبی از IP یا نام دامنه، به‌همراه پورت"
+          android:text="Combination of IP or domain name, along with port"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
       </LinearLayout>
@@ -145,7 +145,7 @@
             android:layout_height="wrap_content"
             android:minWidth="100dp"
             android:fontFamily="@font/shabnam"
-            android:text="پورت تونل"
+            android:text="Tunnel Port"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -155,7 +155,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="تعیین پورت تونل برنامه"
+          android:text="Set Tunnel Port for the Application"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
 
@@ -192,7 +192,7 @@
               android:layout_height="wrap_content"
               android:minWidth="100dp"
               android:fontFamily="@font/shabnam"
-              android:text="لیست سیاه"
+             android:text="Blacklist"
               android:textColor="@color/black"
               android:textSize="20sp" />
         </LinearLayout>
@@ -201,7 +201,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/shabnam"
-            android:text="تعیین کنید چه برنامه‌هایی از VPN استفاده نکنند"
+            android:text="Specify which applications do not use VPN"
             android:textColor="#9A9A9A"
             android:textSize="16sp" />
 
@@ -254,7 +254,7 @@
             android:layout_height="wrap_content"
             android:minWidth="100dp"
             android:fontFamily="@font/shabnam"
-            android:text="اتصال از LAN"
+            android:text="LAN Connection"
             android:textColor="@color/black"
             android:textSize="20sp" />
         </LinearLayout>
@@ -263,7 +263,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="امکان اتصال سایر دستگاه‌های شبکه"
+          android:text="Possibility to connect other network devices"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
 
@@ -316,7 +316,7 @@
             android:layout_height="wrap_content"
             android:minWidth="100dp"
             android:fontFamily="@font/shabnam"
-            android:text="سایفون"
+            android:text="Psiphon"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -326,7 +326,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="فعالسازی سایفون"
+          android:text="Activate Psiphon"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
 
@@ -370,7 +370,7 @@
             android:minWidth="100dp"
             android:layout_marginStart="40dp"
             android:fontFamily="@font/shabnam"
-            android:text="انتخاب کشور"
+            android:text="Select Country"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -380,7 +380,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="کشوری که از آن به اینترنت متصل می‌شوید"
+          android:text="Country you are connecting to the internet from"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
 
@@ -429,7 +429,7 @@
             android:layout_height="wrap_content"
             android:minWidth="100dp"
             android:fontFamily="@font/shabnam"
-            android:text="لایسنس"
+            android:text="License"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -439,7 +439,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="اگر لایسنس دارید (هر لایسنس 2x می‌شود)"
+          android:text="If you have a license (each license doubles)"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
 
@@ -490,7 +490,7 @@
             android:layout_height="wrap_content"
             android:minWidth="100dp"
             android:fontFamily="@font/shabnam"
-            android:text="گول"
+            android:text="Warp"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -500,7 +500,7 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:fontFamily="@font/shabnam"
-          android:text="فعالسازی Warp In Warp"
+          android:text="Enable Warp In Warp"
           android:textColor="#9A9A9A"
           android:textSize="16sp" />
 
