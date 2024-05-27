@@ -49,7 +49,7 @@
             android:layout_marginEnd="8sp"
             android:fontFamily="@font/shabnammedium"
             android:gravity="center"
-            android:text="یعنی"
+            android:text="Meaning"
             android:textAlignment="textEnd"
             android:textSize="18sp"
             app:layout_constraintBottom_toBottomOf="@+id/textView"
@@ -62,7 +62,7 @@
             android:layout_marginEnd="4sp"
             android:fontFamily="@font/shabnammedium"
             android:gravity="center"
-            android:text='"فراموشی، بی‌خیالی"'
+            android:text="Forgetfulness, indifference"
             android:textSize="18sp"
             app:layout_constraintBottom_toBottomOf="@+id/textView2"
             app:layout_constraintEnd_toStartOf="@+id/textView2" />
@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/shabnambold"
             android:gravity="center"
-            android:text="فراموش نکنید!"
+            android:text="Don't Forget!"
             android:textAlignment="textEnd"
             android:textColor="#ffa200"
             android:textSize="18sp"
@@ -143,7 +143,7 @@
             android:layout_weight="1"
             android:fontFamily="@font/shabnammedium"
             android:gravity="center"
-            android:text="#سگارو"
+            android:text="#Sgaro"
             android:textAlignment="center"
             android:textColor="#7b7b7b"
             android:textSize="20sp" />
@@ -155,7 +155,7 @@
             android:layout_weight="1"
             android:fontFamily="@font/shabnammedium"
             android:gravity="center"
-            android:text="#یوسف_قبادی"
+            android:text="#Yousef_Ghobadi"
             android:textColor="#7b7b7b"
             android:textSize="20sp" />
 
@@ -169,7 +169,7 @@
         android:layout_marginBottom="8sp"
         android:fontFamily="@font/shabnammedium"
         android:gravity="center"
-        android:text="اینترنت برای همه، یا هیچکس"
+        android:text="Internet for all, or for no one"
         android:textAlignment="center"
         android:textColor="#c4c4c4"
         android:textSize="20sp"
