@@ -35,7 +35,7 @@
       android:layout_centerVertical="true"
       android:layout_marginEnd="16dp"
       android:fontFamily="@font/shabnamlight"
-      android:text="لاگ برنامه"
+      android:text="App Log"
       android:textColor="@color/black"
       android:textSize="32sp" />
 
