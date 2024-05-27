@@ -28,7 +28,7 @@
             android:paddingTop="10dp"
             android:paddingRight="20dp"
             android:paddingBottom="10dp"
-            android:text="غیرفعال"
+            android:text="Disabled"
             android:fontFamily="@font/shabnam"
             android:textAlignment="textStart"
             android:textSize="14sp" />
@@ -41,7 +41,7 @@
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
             android:paddingBottom="10dp"
-            android:text="در حالت غیرفعال، ترافیک تمامی برنامه ها از VPN عبور می‌کند."
+            android:text="In disabled mode, traffic from all apps passes through the VPN."
             android:fontFamily="@font/shabnam"
 
             android:textAlignment="textStart"
@@ -60,7 +60,7 @@
             android:paddingTop="10dp"
             android:paddingRight="20dp"
             android:paddingBottom="10dp"
-            android:text="فعال"
+            android:text="Enabled"
             android:fontFamily="@font/shabnam"
             android:textAlignment="textStart"
             android:textSize="14sp" />
@@ -75,7 +75,7 @@
             android:paddingRight="20dp"
             android:paddingBottom="10dp"
             android:fontFamily="@font/shabnam"
-            android:text="در حالت فعال، ترافیک برنامه‌های انتخابی از VPN عبور نمی‌کند."
+            android:text="In enabled mode, traffic from selected apps does not pass through the VPN."
             android:textAlignment="textStart"
             android:textSize="14sp" />
 
@@ -91,7 +91,7 @@
         android:padding="4dp"
         android:checked="false"
         android:fontFamily="@font/shabnam"
-        android:text=" نمایش برنامه‌های سیستمی"
+        android:text="Show System Apps"
         app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
 
 
